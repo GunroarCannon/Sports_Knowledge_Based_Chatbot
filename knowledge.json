@@ -1,0 +1,521 @@
+{
+  "who is lionel messi": "Lionel Messi is an Argentine professional footballer widely regarded as one of the greatest players of all time. He has won a record 8 Ballon d'Or awards and led Argentina to victory in the 2022 FIFA World Cup. He spent most of his career at Barcelona before moving to Paris Saint-Germain and later Inter Miami.",
+
+  "where was lionel messi born": "Lionel Messi was born on June 24, 1987, in Rosario, Argentina.",
+
+  "how many ballon dors does messi have": "Lionel Messi has won the Ballon d'Or a record 8 times (as of 2023).",
+
+  "what is messi's height": "Lionel Messi is 1.70 meters tall (5 feet 7 inches).",
+
+  "how many goals has messi scored in his career": "As of early 2024, Lionel Messi has scored over 800 senior career goals for club and country.",
+
+  "what teams has messi played for": "Lionel Messi has played for FC Barcelona, Paris Saint-Germain, Inter Miami CF, and the Argentina national team.",
+
+  "how many world cups has messi won": "Lionel Messi has won one FIFA World Cup with Argentina, in 2022.",
+
+  "what is messi's jersey number": "Lionel Messi famously wore the number 10 at Barcelona and for Argentina. At Paris Saint-Germain he wore 30, and at Inter Miami he wears 10.",
+
+  "who is cristiano ronaldo": "Cristiano Ronaldo is a Portuguese professional footballer considered one of the greatest of all time. He has won 5 Ballon d'Or awards and holds records for most official goals scored in men's football. He has played for Sporting CP, Manchester United, Real Madrid, Juventus, Al Nassr, and Portugal.",
+
+  "where was cristiano ronaldo born": "Cristiano Ronaldo was born on February 5, 1985, in Funchal, Madeira, Portugal.",
+
+  "how many ballon dors does ronaldo have": "Cristiano Ronaldo has won the Ballon d'Or 5 times.",
+
+  "how tall is cristiano ronaldo": "Cristiano Ronaldo is 1.87 meters tall (6 feet 2 inches).",
+
+  "how many goals has ronaldo scored in his career": "Cristiano Ronaldo is the all-time leading scorer in men's football with over 850 official senior career goals (as of early 2024).",
+
+  "what teams has ronaldo played for": "Cristiano Ronaldo has played for Sporting CP, Manchester United, Real Madrid, Juventus, Al Nassr, and the Portugal national team.",
+
+  "how many euros has ronaldo won": "Cristiano Ronaldo won the UEFA European Championship (Euro) with Portugal in 2016.",
+
+  "what is ronaldo's jersey number": "Cristiano Ronaldo is famous for wearing the number 7 jersey at most clubs, including Manchester United, Real Madrid, Juventus, and Al Nassr. He also wears 7 for Portugal.",
+
+  "who is neymar jr": "Neymar Jr is a Brazilian professional footballer known for his dribbling, creativity, and goalscoring. He has played for Santos, Barcelona, Paris Saint-Germain, and Al Hilal, and is a key player for the Brazil national team.",
+
+  "where was neymar born": "Neymar was born on February 5, 1992, in Mogi das Cruzes, São Paulo, Brazil.",
+
+  "how many goals has neymar scored for brazil": "Neymar has scored over 75 goals for the Brazil national team, placing him as Brazil's all-time top scorer (as of 2024).",
+
+  "what is neymar's jersey number": "Neymar typically wears the number 10 for Brazil and has worn 10 or 11 at club level.",
+
+  "who is kylian mbappe": "Kylian Mbappé is a French professional footballer, known for his explosive speed and finishing. He rose to fame at AS Monaco and then Paris Saint-Germain, and was a key member of France's 2018 World Cup-winning team.",
+
+  "how old is mbappe": "Kylian Mbappé was born on December 20, 1998, making him in his mid-twenties.",
+
+  "how many world cups has mbappe won": "Kylian Mbappé has won one FIFA World Cup with France (2018) and was runner-up in 2022.",
+
+  "what is mbappe's jersey number": "Kylian Mbappé wears the number 7 for Paris Saint-Germain and number 10 for the France national team.",
+
+  "who is erling haaland": "Erling Haaland is a Norwegian professional striker known for his physicality, pace, and prolific goalscoring. He plays for Manchester City and the Norway national team.",
+
+  "how many goals did haaland score in 2022 23 season": "In the 2022-23 season, Erling Haaland scored 52 goals in 53 games for Manchester City in all competitions, setting a new Premier League single-season record with 36 goals.",
+
+  "what is haaland's jersey number": "Erling Haaland wears the number 9 at Manchester City and for Norway.",
+
+  "who is mohamed salah": "Mohamed Salah is an Egyptian professional winger who plays for Liverpool and the Egypt national team. He is known for his finishing, dribbling, and speed, and has won multiple Premier League Golden Boots.",
+
+  "what is salah's jersey number": "Mohamed Salah wears the number 11 at Liverpool and for Egypt.",
+
+  "who is zinedine zidane": "Zinedine Zidane is a French former player and manager. As a player, he was one of the greatest midfielders, winning the 1998 World Cup with France. As a manager, he led Real Madrid to three consecutive Champions League titles.",
+
+  "what is zidane famous for": "Zidane is famous for his elegance on the ball, his volley in the 2002 Champions League final, and his headbutt in the 2006 World Cup final.",
+
+  "who is pele": "Pelé is a Brazilian former professional footballer regarded as one of the greatest of all time. He won three FIFA World Cups with Brazil (1958, 1962, 1970) and scored over 1,000 career goals.",
+
+  "how many world cups did pele win": "Pelé won three World Cups with Brazil: 1958, 1962, and 1970.",
+
+  "who is diego maradona": "Diego Maradona was an Argentine professional footballer, considered one of the greatest in history. He led Argentina to victory in the 1986 World Cup and is famous for the 'Hand of God' goal and the 'Goal of the Century' against England.",
+
+  "what is maradona's hand of god": "The 'Hand of God' was a goal scored by Diego Maradona in the 1986 World Cup quarter-final against England, where he punched the ball into the net, which went unnoticed by the referee.",
+
+  "who is ronaldinho": "Ronaldinho is a Brazilian former professional footballer famous for his technical skills, tricks, and joyful style. He won the World Cup in 2002 and the Ballon d'Or in 2005.",
+
+  "who is robert lewandowski": "Robert Lewandowski is a Polish striker, known for his clinical finishing and goal-scoring record. He has played for Borussia Dortmund, Bayern Munich, and Barcelona, and holds numerous goal-scoring records.",
+
+  "how many goals did lewandowski score in 9 minutes": "In 2015, Robert Lewandowski scored five goals in nine minutes for Bayern Munich against Wolfsburg, a remarkable feat.",
+
+  "who is kevin de bruyne": "Kevin De Bruyne is a Belgian professional midfielder, widely considered one of the best playmakers in the world. He plays for Manchester City and the Belgium national team.",
+
+  "what is de bruyne known for": "De Bruyne is known for his exceptional passing range, vision, and ability to score from distance.",
+
+  "who is luka modric": "Luka Modrić is a Croatian midfielder who plays for Real Madrid. He won the Ballon d'Or in 2018, breaking the Messi-Ronaldo duopoly, and led Croatia to the 2018 World Cup final.",
+
+  "who is karim benzema": "Karim Benzema is a French striker who played for Lyon and Real Madrid. He won the Ballon d'Or in 2022 after a stellar season with Real Madrid.",
+
+  "who is sergio ramos": "Sergio Ramos is a Spanish former defender, known for his leadership, goalscoring, and aggressive style. He won numerous titles with Real Madrid and the Spanish national team, including the 2010 World Cup.",
+
+  "who is andres iniesta": "Andrés Iniesta is a Spanish former midfielder, regarded as one of the best of his generation. He scored the winning goal in the 2010 World Cup final for Spain.",
+
+  "who is xavi hernandez": "Xavi Hernández is a Spanish former midfielder and current manager, a key figure in Barcelona and Spain's tiki-taka style. He won the World Cup and European Championships with Spain.",
+
+  "who is ronaldo nazario": "Ronaldo Nazário, also known as R9, is a Brazilian former striker, considered one of the greatest of all time. He won two World Cups with Brazil (1994, 2002) and was twice Ballon d'Or winner.",
+
+  "how many world cups did ronaldo nazario win": "Ronaldo Nazário won the World Cup twice with Brazil: in 1994 (as a teenager) and 2002.",
+
+  "who is zlatan ibrahimovic": "Zlatan Ibrahimović is a Swedish former professional footballer known for his acrobatic goals, confidence, and charisma. He played for Ajax, Juventus, Inter, Barcelona, AC Milan, PSG, Manchester United, and LA Galaxy.",
+
+  "what is zlatan famous for": "Zlatan is famous for his bicycle kicks, long-range goals, and memorable quotes like 'I came like a king, left like a legend.'",
+
+  "who is thierry henry": "Thierry Henry is a French former striker and one of the greatest players in Premier League history, winning multiple titles with Arsenal. He also won the 1998 World Cup with France.",
+
+  "who is didier drogba": "Didier Drogba is a Ivorian former striker, best known for his time at Chelsea where he was a key player in their success, including the 2012 Champions League final.",
+
+  "who is wayne rooney": "Wayne Rooney is an English former striker, Manchester United and England's all-time top scorer. He won numerous trophies with Manchester United.",
+
+  "who is frank lampard": "Frank Lampard is an English former midfielder and manager, Chelsea's all-time top scorer, and one of the Premier League's greatest midfielders.",
+
+  "who is steven gerrard": "Steven Gerrard is an English former midfielder and manager, legendary for his time at Liverpool, leading them to the 2005 Champions League title.",
+
+  "who is paul pogba": "Paul Pogba is a French professional midfielder, known for his technical ability and power. He won the 2018 World Cup with France and has played for Manchester United and Juventus.",
+
+  "who is antonio conte": "Antonio Conte is an Italian football manager and former player, known for his tactical acumen and winning multiple league titles with Juventus, Chelsea, and Inter.",
+
+  "who is jose mourinho": "José Mourinho is a Portuguese football manager, one of the most decorated and controversial managers in the world, known for his defensive tactics and mind games. He has won league titles in Portugal, England, Italy, and Spain.",
+
+  "who is pep guardiola": "Pep Guardiola is a Spanish football manager and former player, renowned for his possession-based style and success with Barcelona, Bayern Munich, and Manchester City.",
+
+  "who is jurgen klopp": "Jürgen Klopp is a German football manager, known for his 'heavy metal' football and charisma. He led Liverpool to Champions League and Premier League titles.",
+
+  "who is sir alex ferguson": "Sir Alex Ferguson is a Scottish former football manager, widely regarded as the greatest of all time. He managed Manchester United from 1986 to 2013, winning numerous trophies including 13 Premier League titles and 2 Champions Leagues.",
+
+  "who is arsene wenger": "Arsène Wenger is a French former manager who transformed Arsenal, leading them to multiple Premier League titles including the famous 'Invincibles' season in 2003-04.",
+
+  "who is carlo ancelotti": "Carlo Ancelotti is an Italian football manager and former player, known for his calm demeanor and success across Europe's top leagues. He has won the Champions League a record four times as a manager.",
+
+  "who is diego simeone": "Diego Simeone is an Argentine football manager and former player, known for his intense, defensive style and long tenure at Atlético Madrid, where he has won multiple trophies.",
+
+  "who is kylian mbappe's idol": "Kylian Mbappé has often cited Cristiano Ronaldo as his childhood idol.",
+
+  "who is erling haaland's father": "Erling Haaland's father is Alf-Inge Haaland, a former Norwegian professional footballer who played in the Premier League.",
+
+  "who is lionel messi's wife": "Lionel Messi is married to Antonela Roccuzzo, his childhood sweetheart.",
+
+  "who is cristiano ronaldo's family": "Cristiano Ronaldo has a large family; his mother is Dolores Aveiro, he has a son Cristiano Jr., and twins Eva and Mateo, and daughter Alana Martina with partner Georgina Rodríguez.",
+
+  "who is neymar's son": "Neymar has a son named Davi Lucca, born in 2011.",
+
+  "what is mbappe's speed": "Kylian Mbappé has been clocked at a top speed of 38 km/h (23.6 mph), making him one of the fastest footballers in the world.",
+
+  "how many hat tricks does messi have": "Lionel Messi has scored over 55 hat-tricks in his professional career (as of 2024).",
+
+  "how many hat tricks does ronaldo have": "Cristiano Ronaldo has scored over 60 hat-tricks in his professional career.",
+
+  "which player has the most international goals": "Cristiano Ronaldo holds the record for the most international goals in men's football, with over 120 goals for Portugal.",
+
+  "which player has the most champions league titles": "Cristiano Ronaldo has won the Champions League 5 times. Among players, Francisco Gento (Real Madrid) won 6 European Cups, but in the Champions League era, players like Ronaldo, Messi, and several Real Madrid players from 2014-2018 have 5 or more.",
+
+  "who is the youngest goalscorer in world cup": "Pelé is the youngest player to score in a World Cup (17 years, 239 days in 1958). The youngest to score in a modern World Cup is also Pelé.",
+
+  "who is the oldest goalscorer in world cup": "Roger Milla of Cameroon is the oldest goalscorer in World Cup history, scoring at age 42 in 1994.",
+
+  "who has the most assists in football history": "Lionel Messi is often cited as having the most assists in football history, with over 350 assists in his career.",
+
+  "who has the most motm awards": "Lionel Messi holds the record for the most Player of the Match awards in football history.",
+
+  "who is the only player to win world cups as player and manager": "Franz Beckenbauer won the World Cup as a player (1974) and as a manager (1990) with West Germany.",
+
+  "who is the only player to score in three world cup finals": "Pelé scored in the 1958 and 1970 finals. Vavá also scored in two finals (1958 and 1962). No player has scored in three World Cup finals. However, Kylian Mbappé scored in the 2022 final (3 goals) and 2018 final, so he has scored in two.",
+
+  "who has the most goals in a calendar year": "Lionel Messi holds the record for most goals in a calendar year: 91 goals in 2012.",
+
+  "who is the only player to win ballon dor with two different clubs": "Cristiano Ronaldo won the Ballon d'Or at Manchester United (2008) and Real Madrid (2013, 2014, 2016, 2017). Also, Lionel Messi won all his Ballon d'Or at Barcelona except 2023 at Inter Miami? Actually 2023 was not awarded based on club. Other players like Ronaldo Nazario won at Barcelona and Inter? No, he won at Barcelona and later at Real Madrid? Actually R9 won in 1997 (Barcelona/Inter) and 2002 (Real Madrid). So multiple players have done it.",
+
+  "who is the only goalkeeper to win ballon dor": "Lev Yashin, the Soviet goalkeeper, is the only goalkeeper to have won the Ballon d'Or (1963).",
+
+  "who has the most premier league golden boots": "Thierry Henry has won the Premier League Golden Boot four times. Harry Kane also has three, but Henry holds the record.",
+
+  "who has the most premier league titles as a player": "Ryan Giggs holds the record with 13 Premier League titles (all with Manchester United).",
+
+  "who is the all-time top scorer in el clasico": "Lionel Messi is the all-time top scorer in El Clásico (matches between Barcelona and Real Madrid) with 26 goals.",
+
+  "who is the all-time top scorer in the manchester derby": "Wayne Rooney is the all-time top scorer in the Manchester derby with 11 goals.",
+
+  "who is the most expensive player ever": "Neymar Jr holds the record for the highest transfer fee ever paid, when he moved from Barcelona to Paris Saint-Germain for €222 million in 2017.",
+
+  "who is the most expensive teenager": "Kylian Mbappé was the most expensive teenager when he moved from Monaco to PSG for €180 million (initially on loan then permanent).",
+
+  "who is the most expensive defender": "Harry Maguire was the most expensive defender when he moved from Leicester to Manchester United for £80 million in 2019. Since then, others like Virgil van Dijk have been surpassed.",
+
+  "who is the most expensive goalkeeper": "Kepa Arrizabalaga holds the record for the most expensive goalkeeper, moving from Athletic Bilbao to Chelsea for €80 million in 2018.",
+
+  "who is the fastest footballer in the world": "Several players have been clocked at high speeds. Kylian Mbappé, Alphonso Davies, and Adama Traoré are among the fastest, with Davies once recorded at 36.5 km/h.",
+
+  "who is the most followed footballer on instagram": "Cristiano Ronaldo is the most followed footballer and one of the most followed individuals on Instagram, with over 600 million followers (as of 2024).",
+
+  "who is the highest paid footballer": "Cristiano Ronaldo was the highest-paid footballer in 2023, with earnings estimated at over $200 million annually from his contract with Al Nassr and endorsements.",
+
+  "who has won the most fifa club world cups": "Real Madrid and Barcelona have both won the FIFA Club World Cup three times. But as individuals, players like Karim Benzema, Luka Modric, and others have won it multiple times with Real Madrid.",
+
+  "who is the only player to win champions league with three different clubs": "Clarence Seedorf is the only player to have won the Champions League with three different clubs: Ajax (1995), Real Madrid (1998), and AC Milan (2003, 2007).",
+
+  "who is the only player to win uefa euro with two different clubs": "This is not applicable as the UEFA European Championship is for national teams. For club competitions, players have won UEFA Cup/Europa League with multiple clubs.",
+
+  "who is the player with most trophies ever": "Lionel Messi and Dani Alves are among the most decorated players. Dani Alves has won over 40 trophies in his career, the most by any professional footballer.",
+
+  "who is the only player to win world cup and champions league in same year": "Several players have done it. In 1974, Sepp Maier, Paul Breitner, Hans-Georg Schwarzenbeck, Franz Beckenbauer, Gerd Müller, and Uli Hoeneß (Bayern and West Germany) won both. In 1998, Christian Karembeu (Real Madrid and France) won both. In 2002, Roberto Carlos and Rivaldo (Real Madrid and Brazil) did it. In 2018, Raphaël Varane (Real Madrid and France) did it.",
+
+  "who is the player with most red cards in football history": "Gerardo Bedoya, a Colombian footballer, holds the record for most red cards, with 46 in his career.",
+
+  "who is the tallest footballer in the world": "Many tall footballers include Kristof Van Hout (2.08m), but currently, players like Thibaut Courtois (2.00m) are among the tallest.",
+
+  "who is the shortest footballer in the world": "Some of the shortest include Élton José Xavier (1.54m), and Daniel Villalva (1.52m).",
+
+  "who is the only player to win the world cup, champions league, and ballon dor in the same year": "Several players have done this: For example, Fabio Cannavaro won World Cup (2006) and Ballon d'Or (2006) but no Champions League. In 1974, Franz Beckenbauer won World Cup and Ballon d'Or but no Champions League (though Bayern won European Cup that year, but it wasn't called Champions League then). In 1998, Zidane won World Cup and Ballon d'Or but no Champions League. In 2002, Ronaldo Nazário won World Cup and Ballon d'Or, but his club Inter didn't win Champions League. The closest modern example is Lionel Messi in 2009: he won Champions League, Ballon d'Or, but World Cup came later. Kaka won Champions League (2007) and Ballon d'Or (2007) but no World Cup. So maybe no player achieved all three in the same year. But if you count the European Cup as equivalent, then Beckenbauer (1974) did it.",
+
+  "who is the only player to win world cup, copa america, and champions league": "Lionel Messi achieved this: he won Champions League (2006, 2009, 2011, 2015), World Cup (2022), and Copa America (2021). Other South American players like Cafu, Ronaldo Nazario have also won World Cup and Copa America, but maybe not Champions League? Ronaldo Nazario won World Cup (1994, 2002), Copa America (1997, 1999), but never won Champions League. Cafu won World Cup (1994, 2002), Copa America (1997, 1999), and Champions League (2007 with AC Milan). So Cafu has also done it.",
+
+  "who is the only player to score in a world cup final and a champions league final in the same year": "Kylian Mbappé came close in 2018: he scored in the World Cup final but PSG didn't reach Champions League final. In 2022, he scored a hat-trick in World Cup final but PSG didn't reach Champions League final. In 1998, Zidane scored in World Cup final but Juventus lost Champions League final. So none? Actually, in 1974, Gerd Müller scored in World Cup final and Bayern won European Cup final (though he didn't score in that final?). He scored in European Cup final replay? Let's not overcomplicate.",
+
+  "who is the only player to win the world cup, premier league, and champions league with same club": "Several players have won World Cup and Champions League with same club. For example, Manchester United players from 1999 (like Beckham, Scholes, Neville) won Champions League and later World Cup? Beckham won World Cup? No, he didn't. Actually, English players won World Cup only in 1966. So maybe not. But players like Xavi, Iniesta won World Cup with Spain and Champions League with Barcelona. So they did it.",
+
+  "who is the only player to win the world cup, euro, and champions league": "Players like Cristiano Ronaldo have won Champions League and Euro (2016) but not World Cup. French players like Kylian Mbappé have won World Cup but not Euro. German players have won World Cup and Euro? Many German players from 1972 (Euro) and 1974 (World Cup) like Beckenbauer won both, but Champions League? Beckenbauer won European Cup. So yes, Franz Beckenbauer is one.",
+
+  "who is the only player to win world cup and golden ball in same year": "Several: Pelé (1958?), Maradona (1986), Garrincha (1962), etc. Messi (2022) also won the Golden Ball as best player of the tournament.",
+
+  "who is the only player to win world cup golden boot": "Several: Paolo Rossi (1982), Ronaldo Nazario (2002), Thomas Müller (2010), James Rodríguez (2014), Harry Kane (2018), Kylian Mbappé (2022).",
+
+  "who is the only player to win world cup golden glove": "The Golden Glove award for best goalkeeper has been given since 1994: Michel Preud'homme (1994), Fabien Barthez (1998), Oliver Kahn (2002), Gianluigi Buffon (2006), Iker Casillas (2010), Manuel Neuer (2014), Thibaut Courtois (2018), Emiliano Martínez (2022).",
+
+  "who is the only player to win world cup young player award": "Since 2006: Lukas Podolski (2006), Thomas Müller (2010), Paul Pogba (2014), Kylian Mbappé (2018), Enzo Fernández (2022).",
+
+  "who is the only player to win world cup fair play award": "This is given to teams, not individuals.",
+
+  "who is the only player to win world cup and olympic gold medal": "Many players have done it, including Lionel Messi (2008 Olympic gold, 2022 World Cup). Also Neymar won Olympic gold (2016) and has not won World Cup yet. Others: Ronaldinho (World Cup 2002, Olympic? He didn't win Olympic gold).",
+
+  "who is the only player to win world cup and copa america in consecutive years": "Lionel Messi: Copa America 2021, World Cup 2022.",
+
+  "who is the only player to win world cup and european cup in the same season": "Already mentioned: Beckenbauer (1974) is a prime example. In modern era, Varane (2018) did it: Champions League with Real Madrid in May, World Cup with France in July.",
+
+  "who is the only player to win world cup and premier league in same season": "English players only in 1966, but Premier League didn't exist then. Since 1992, no English player has won World Cup and Premier League in same year because England hasn't won World Cup since 1966. However, non-English players have done it: For example, Emmanuel Petit won World Cup with France in 1998 and Premier League with Arsenal in 1997-98 season? Actually, 1997-98 Premier League ended in May 1998, World Cup was July 1998. So same calendar year but not same season. But if we consider the 1997-98 season and the 1998 World Cup as the same season (ending with World Cup), then Petit did it. Same for Kylian Mbappé? He won World Cup 2018 but Ligue 1 with PSG that year? PSG won 2017-18 Ligue 1, so yes, same season.",
+
+  "who is the only player to win world cup and la liga in same season": "Barcelona players who won La Liga and World Cup in same year: In 2010, Spain players like Xavi, Iniesta, Puyol won La Liga (2009-10) and World Cup (2010).",
+
+  "who is the only player to win world cup and serie a in same season": "In 2006, Italian players like Cannavaro, Buffon, etc. won Serie A? Juventus had their title revoked in 2006 due to Calciopoli. So maybe not. In 1982, Italian players won World Cup and Serie A? Paolo Rossi won World Cup and his club Juventus won Serie A in 1981-82? Yes, Juventus won 1981-82 Serie A. So Rossi did it.",
+
+  "who is the only player to win world cup and bundesliga in same season": "In 1974, Bayern players like Beckenbauer, Müller won Bundesliga (1973-74) and World Cup (1974).",
+
+  "who is the only player to win world cup and ligue 1 in same season": "French players in 1998: Didier Deschamps (Juventus, not Ligue 1), Zidane (Juventus), etc. But some French players played in France: Laurent Blanc (Marseille) won Ligue 1 with Marseille in 1991-92? Not same year. In 2018, Kylian Mbappé won Ligue 1 with PSG and World Cup. So yes.",
+
+  "who is the only player to win world cup and champions league final man of the match in same year": "Not sure. Zidane won World Cup final MOTM (1998) and in 2002 he won Champions League final with a famous volley but MOTM might not have been official. In 2022, Emiliano Martínez won World Cup final MOTM, but Aston Villa didn't win Champions League.",
+
+  "who is the only player to win world cup and have a stadium named after them": "Pelé has a stadium named after him in Brazil. Maradona has a stadium in Naples. But they didn't win World Cup in same year as naming.",
+
+  "who is the only player to win world cup and ballon dor in the same year": "Many: Pelé (1958?), Maradona (1986?), but Ballon d'Or was only open to Europeans before 1995. So before 1995, non-Europeans couldn't win. After 1995, Ronaldo Nazario (2002) won both? He won World Cup 2002 and Ballon d'Or 2002. Also, Messi (2022) won Ballon d'Or 2023? Actually, 2022 Ballon d'Or was given in October 2022 (based on 2021-22 season) and Messi didn't win it (Benzema won). 2023 Ballon d'Or was given in October 2023 for the 2022-23 season, which included the World Cup, and Messi won. So technically, he won Ballon d'Or for the year that included the World Cup. So yes, Messi (2023 Ballon d'Or for 2022 World Cup).",
+
+  "who is the only player to win world cup and uefa player of the year in same year": "UEFA Men's Player of the Year started in 2011. In 2018, Luka Modrić won it and also won World Cup? He lost World Cup final, so no. In 2022, Karim Benzema won it but didn't win World Cup. So none yet.",
+
+  "who is the only player to win world cup and fifa the best in same year": "FIFA The Best started in 2016. In 2018, Luka Modrić won it but didn't win World Cup. In 2022, Lionel Messi won The Best (February 2023) for his World Cup performance. So yes, Messi (2022 World Cup, 2022 The Best).",
+
+  "who is the only player to win world cup and olympic gold in the same year": "No one because World Cup and Olympics are not in same year (Olympics are every 4 years but in summer, World Cup also every 4 years but they are often in different years. In 2024, there is Olympics but no World Cup. In 2022, there was World Cup but no Olympics. So impossible.",
+
+  "who is the only player to win world cup and copa america in the same year": "Impossible because Copa America is usually held in same year as World Cup? In 2022, Copa America was not held. In 2021, Copa America was held. So not same year.",
+
+  "who is the only player to win world cup and euro in the same year": "Impossible because Euro is held in same year as World Cup only in 2020? Actually, Euro was postponed to 2021 due to COVID. So no.",
+
+  "who is the only player to win world cup and afcon in the same year": "Impossible because AFCON is held in odd-numbered years usually, World Cup even years. So no.",
+  "who invented football": "The modern rules of football (soccer) were codified in 1863 in London, England, by The Football Association (FA). While various forms of ball games existed for centuries, this is considered the birth of the sport as we know it.",
+
+  "what is the diameter of a football": "A standard size 5 football (used for adults and professionals) has a circumference of 68-70 cm, which gives it a diameter of roughly 22 cm (8.6 inches).",
+
+  "what is the 6 second rule": "The 6-second rule is an unwritten but enforced law that prohibits a goalkeeper from holding the ball in their hands for more than 6 seconds. If they hold it longer, the opposing team is awarded an indirect free kick.",
+
+  "why do footballers walk out with children": "Footballers walk onto the pitch with children as part of a campaign to promote children's rights and good sportsmanship. It's often organized in partnership with organizations like UNICEF. It also symbolizes the purity of the game.",
+
+  "what is a brace in football": "A brace is a term used when a player scores two goals in a single match. It's the step before a hat-trick!",
+
+  "what is a panenka penalty": "A Panenka is a cheeky penalty kick technique where the taker gently chips the ball straight down the center of the goal after the goalkeeper has dived to the side. It was famously used by Antonín Panenka in 1976.",
+
+  "which club has the most champions league titles": "Real Madrid is the undisputed king of the European Cup/UEFA Champions League, having won the competition a record 14 times.",
+
+  "what is the football transfer record": "The highest transfer fee ever paid for a footballer is for Neymar Jr., who moved from Barcelona to Paris Saint-Germain in 2017 for a staggering €222 million.",
+
+  "who is cristiano ronaldo's all-time top scorer": "Cristiano Ronaldo is the all-time top goalscorer in men's professional football history, according to official records, having scored over 850 official senior career goals for club and country.",
+
+  "what does 'tifo' mean": "A tifo is a choreographed display or banner created by fans (ultras) in the stands of a stadium, often before a big match. They can be huge, colorful, and cover entire sections of seating.",
+
+  "what is the derby della madonnina": "The Derby della Madonnina is the local derby in Milan, Italy, between the city's two giant clubs: AC Milan and Inter Milan. It's also known as the 'Milan Derby'.",
+
+  "who has won the most ballon d'or awards": "Lionel Messi holds the record for the most Ballon d'Or awards, having won the prestigious individual prize 8 times.",
+
+  "what is the asian cup": "The AFC Asian Cup is the primary international football tournament contested by the senior men's national teams of the members of the Asian Football Confederation. It is the second oldest continental football championship in the world.",
+
+  "tell me about the copa america": "The CONMEBOL Copa América is the oldest continuing international continental football competition. It determines the champion of South America and features the national teams of CONMEBOL, often with invited guest nations.",
+
+  "what is a clean sheet": "A clean sheet is when a team or goalkeeper prevents the opposing team from scoring any goals during an entire match.",
+
+  "who is the nba's all-time leading scorer": "LeBron James became the NBA's all-time leading scorer in 2023, surpassing the previous record held by Kareem Abdul-Jabbar.",
+
+  "what is march madness": "March Madness is the name for the NCAA Division I Men's and Women's Basketball Tournaments, a single-elimination college basketball competition held each spring in the United States, famous for its unpredictable results.",
+
+  "who has the most home runs in mlb history": "Barry Bonds holds the Major League Baseball record for the most home runs in a career, with 762.",
+
+  "what is a grand slam in baseball": "In baseball, a grand slam is a home run hit with all three bases occupied by runners ('bases loaded'), thereby scoring four runs—the most possible on a single play.",
+
+  "what is the ryder cup": "The Ryder Cup is a biennial men's golf competition between teams from Europe and the United States. It's played for the eponymous trophy and is known for its intense but sportsmanlike rivalry.",
+
+  "what is the albatross in golf": "An albatross, also called a double eagle, is an incredibly rare and impressive golf score of three strokes under par on a single hole.",
+
+  "what is the tour de france": "The Tour de France is an annual men's multiple-stage bicycle race primarily held in France. It is the most famous and prestigious bicycle race in the world, typically covering around 3,500km (2,200 miles).",
+
+  "who has won the most tour de france titles": "The record for the most overall wins in the Tour de France is jointly held by Jacques Anquetil, Eddy Merckx, Bernard Hinault, and Miguel Indurain, with 5 wins each. Lance Armstrong's results were stripped due to doping.",
+
+  "what is a love game in tennis": "A love game in tennis is a game in which the losing player or team scores zero points. So the winner wins four points to the loser's zero (e.g., 40-0).",
+
+  "what is the davis cup": "The Davis Cup is the premier international team event in men's tennis. It is run by the International Tennis Federation (ITF) and is contested annually between teams from competing countries.",
+
+  "what is a googly in cricket": "A googly, or a 'wrong'un', is a type of delivery bowled by a leg-spinner in cricket. It looks like it will spin one way (e.g., into the right-handed batter) but actually spins the other way (away from the batter) after pitching.",
+
+  "what is the ashes": "The Ashes is a Test cricket series played between England and Australia. It is one of the sport's most famous and historic rivalries, with the winner being awarded a small urn, said to contain the ashes of a cricket bail.",
+
+  "what is a power play in cricket": "In limited overs cricket, the Powerplay is a set of overs during which fielding restrictions apply, limiting the number of fielders allowed outside the 30-yard circle. This encourages aggressive batting.",
+
+  "what is the world cup in rugby": "The Rugby World Cup is the premier international competition in men's and women's rugby union. It is held every four years and features the top national teams from around the world. South Africa won the men's title in 2019 and 2023.",
+
+  "what is a try in rugby": "A try is the primary method of scoring in rugby union and rugby league. A try is awarded when a player grounds the ball in the opponent's in-goal area. It is worth 5 points in rugby union.",
+
+  "what is the grand slam in rugby": "In rugby union, a Grand Slam is achieved when one team in the Six Nations Championship (England, France, Ireland, Italy, Scotland, Wales) beats all five other teams during the competition.",
+
+  "what is the indianapolis 500": "The Indianapolis 500, often called 'Indy 500', is a 500-mile (805 km) automobile race held annually at the Indianapolis Motor Speedway. It is one of the oldest and most prestigious automobile races in the world.",
+
+  "what is a pit stop in f1": "A pit stop in Formula 1 is when a car comes into the pits for refueling (no longer allowed), new tires, repairs, or mechanical adjustments. A modern F1 pit stop to change all four tires can take under 2.5 seconds!",
+
+  "what is drs in f1": "DRS stands for Drag Reduction System. It's a device in Formula 1 cars that opens a flap in the rear wing to reduce aerodynamic drag and increase straight-line speed, helping drivers to overtake.",
+
+  "what is the summer olympics motto": "The Olympic motto is 'Citius, Altius, Fortius', which is Latin for 'Faster, Higher, Stronger'. In 2021, the International Olympic Committee added the word 'Communiter' (Latin for 'Together'), making it 'Faster, Higher, Stronger - Together'.",
+
+  "what are the winter olympics sports": "The Winter Olympics feature sports played on snow and ice. Core sports include Alpine skiing, cross-country skiing, figure skating, ice hockey, snowboarding, biathlon, bobsleigh, and curling.",
+
+  "who is the most decorated olympian of all time": "Michael Phelps, a swimmer from the United States, is the most decorated Olympian of all time with a total of 28 medals (23 gold, 3 silver, 2 bronze).",
+
+  "what is the commonwealth games": "The Commonwealth Games is an international multi-sport event involving athletes from the Commonwealth of Nations. It is held every four years and includes sports like athletics, swimming, lawn bowls, and netball.",
+
+  "what is the ufc weight classes": "The UFC has several weight classes, including Flyweight (125 lbs), Bantamweight (135), Featherweight (145), Lightweight (155), Welterweight (170), Middleweight (185), Light Heavyweight (205), and Heavyweight (265).",
+
+  "what is a submission in mma": "A submission is a fighting technique in MMA that forces an opponent to concede defeat ('tap out'), usually due to a chokehold (strangulation) or a joint lock (hyperextension of a limb).",
+
+  "who is conor mcgregor": "Conor McGregor is an Irish professional mixed martial artist and boxer. He is a former Ultimate Fighting Championship (UFC) featherweight and lightweight champion, known for his striking power and charismatic personality.",
+
+  "what is esports": "Esports, short for electronic sports, is a form of competition using video games. It involves organized, multiplayer video game competitions, particularly between professional players, individually or as teams.",
+
+  "what is the international in dota 2": "The International is the world championship tournament for the video game Dota 2, produced by Valve. It is known for having the largest prize pools in esports history, funded by the game's player community.",
+
+  "who has won the most league of legends world championships": "T1, a South Korean organization, and their star player 'Faker', have won the League of Legends World Championship a record 4 times.",
+
+  "what is the boston marathon": "The Boston Marathon is an annual marathon race hosted by several cities in Greater Boston in eastern Massachusetts. It is the world's oldest annual marathon, having started in 1897.",
+
+  "what is the london marathon": "The London Marathon is a long-distance running event held in London, England. It is one of the six World Marathon Majors and is famous for its flat, fast course and the many runners who dress in costumes for charity.",
+
+  "what is the pfa player of the year": "The PFA Players' Player of the Year is an annual award given to the player who is voted to have been the best of the season in English football. The winner is voted for by other players within the leagues.",
+
+  "what is the golden glove": "The Golden Glove is an award given to the goalkeeper who has kept the most clean sheets in a league season or tournament. In the Premier League, it's sponsored by Castrol.",
+
+  "what does 'squeaky bum time' mean": "'Squeaky bum time' is a famous phrase coined by Manchester United manager Sir Alex Ferguson. It refers to the tense, nail-biting final part of a league season or match when the pressure is at its highest.",
+
+  "what is a friendly match": "A friendly match is a football match that is not part of a competitive league or tournament. It's usually arranged to raise money, give players match practice, or test tactics, and the result doesn't count towards any official standings.",
+
+  "what is the afcon": "AFCON stands for the Africa Cup of Nations, the main international men's association football competition in Africa. It is organized by the Confederation of African Football (CAF).",
+
+  "which country has won the most afcon titles": "Egypt is the most successful nation in the history of the Africa Cup of Nations, having won the tournament a record 7 times.",
+
+  "who is samuel eto'o": "Samuel Eto'o is a Cameroonian former professional footballer. He is regarded as one of the greatest African players of all time, having won multiple African Player of the Year awards and numerous trophies with clubs like Barcelona and Inter Milan.",
+
+  "what is the concacaf gold cup": "The CONCACAF Gold Cup is the main men's football championship of the CONCACAF region (North and Central America and the Caribbean).",
+
+  "what is the nfl draft": "The NFL Draft is an annual event in which the 32 teams in the National Football League select new players to join their rosters. It's the primary source of player recruitment for the league.",
+
+  "what is the pro bowl": "The Pro Bowl is the all-star game of the National Football League (NFL). It features the league's star players pitted against each other, with the conference affiliation format having changed over the years.",
+
+  "what is a hat trick in hockey": "In ice hockey, a hat trick is when a player scores three goals in a single game. It's a tradition for fans to throw their hats onto the ice to celebrate.",
+
+  "who is wayne gretzky": "Wayne Gretzky is a Canadian former professional ice hockey player. He is widely considered the greatest hockey player of all time. He holds the NHL records for most goals, assists, and points.",
+
+  "what is the currie cup": "The Currie Cup is South Africa's premier domestic rugby union competition. It is one of the oldest rugby competitions in the world, dating back to 1891.",
+
+  "what is the six nations": "The Six Nations Championship is an annual international rugby union competition involving the men's teams of England, France, Ireland, Italy, Scotland, and Wales. It's a huge event in the European rugby calendar.",
+
+  "what is a birdie in disc golf": "Just like in ball golf, a birdie in disc golf is completing a hole one throw under the designated 'par' for that hole.",
+
+  "what is the ironman world championship": "The Ironman World Championship is an annual long-distance triathlon race held in Kailua-Kona, Hawaii. It consists of a 2.4-mile (3.86 km) swim, a 112-mile (180.25 km) bike, and a 26.22-mile (42.20 km) marathon run.",
+
+  "what is parkour": "Parkour is a training discipline using movement that developed from military obstacle course training. Practitioners, called traceurs, aim to get from one point to another in a complex environment, without assistive equipment and in the fastest and most efficient way possible.",
+
+  "tell me a funny sports fact": "Did you know? In 1957, a Major League Baseball player named Clint Courtney was so upset with an umpire's call that he tried to throw a handful of sand at him. Unfortunately, he forgot to let go of the sand, and just ended up throwing his glove.",
+
+  "tell me a weird sports law": "In Arizona, it is illegal to refuse a person a glass of water. This law was tested in 2013 when a marathon runner was denied water at a water station!",
+
+  "what is the 'curse of the bambino'": "The 'Curse of the Bambino' was a famous sports superstition in the US, citing a curse on the Boston Red Sox baseball team after they sold Babe Ruth ('The Bambino') to the New York Yankees in 1918. The 'curse' was said to be the reason they didn't win a World Series for 86 years, until 2004.",
+
+  "how can i report a sports score": "You can report a local sports score to your local newspaper, school website, or county sports association. For professional scores, official league apps and websites are the best sources.",
+
+  "what is a sports agent": "A sports agent is a legal representative for professional sports figures like athletes and coaches. They procure and negotiate employment and endorsement contracts for their clients.",
+
+  "what is sports analytics": "Sports analytics is the use of data and statistical metrics to evaluate player performance, team strategy, and business decisions. It's the 'Moneyball' approach to sports, now used in almost every major league.",
+
+  "what is a 'dead rubber'": "A dead rubber is a term used in multi-match series (like in cricket or tennis) to describe a match played after the series winner has already been decided. It has no impact on the outcome of the series.",
+
+  "what is a 'walkover' in sports": "A walkover (W.O.) occurs when a player or team wins a match, game, or contest because the opponent has forfeited, withdrawn, or fails to start the match. It's essentially a win by default.",
+
+  "goodbye": "See you later, champion! 🏆 Come back anytime for more sports trivia and info. Play hard! ⚡",
+  "hello": "Hi fan! 👋 Welcome to the Sports Information & Fan Engagement Chatbot ⚽🏆",
+
+  "what is this chatbot": "This chatbot system provides sports information and enhances fan engagement by answering football-related questions, match rules, ticket info, and general sports knowledge.",
+
+  "about": "This project is titled 'Development of a Sports Information and Fan Engagement Chatbot System'. It is designed to assist football fans with quick access to sports information, rules, match updates, and interactive fan support.",
+
+  "what is fan engagement": "Fan engagement refers to the interaction between sports teams and their supporters through digital platforms, events, communication tools, and personalized experiences.",
+
+  "who won the 2022 world cup": "Argentina won the 2022 FIFA World Cup after defeating France in the final.",
+
+  "what is offside": "Offside is a football rule that prevents attackers from gaining an unfair advantage by being too close to the opponent’s goal when the ball is played.",
+
+  "how long is a football match": "A standard football match lasts 90 minutes, divided into two halves of 45 minutes each, plus added injury time.",
+
+  "how can i buy match tickets": "Match tickets can be purchased online through official club websites or physically at the stadium ticket office.",
+
+  "what is a red card": "A red card is given when a player commits a serious foul or receives two yellow cards, resulting in dismissal from the match.",
+
+  "what is a yellow card": "A yellow card is a warning issued to a player for unsporting behavior or minor fouls.",
+
+  "who is the best football player": "Many consider Lionel Messi and Cristiano Ronaldo among the greatest football players of all time.",
+
+  "what is var": "VAR stands for Video Assistant Referee. It is used to review key decisions such as goals, penalties, and red cards.",
+
+  "how many players are in a football team": "Each football team has 11 players on the pitch, including the goalkeeper.",
+
+  "bye": "Goodbye! 👋 Keep supporting your favorite team and stay passionate about football ⚽🔥",
+
+  "who won the champions league in 2023": "Manchester City won their first UEFA Champions League title in 2023, defeating Inter Milan 1-0 in the final.",
+
+  "what is the premier league": "The Premier League is the top level of the English football league system. It is one of the most popular and competitive football leagues in the world, featuring 20 clubs.",
+
+  "what is a hat trick": "A hat-trick in football is when a player scores three goals in a single match.",
+
+  "how big is a football goal": "A standard football goal is 24 feet (7.32 meters) wide and 8 feet (2.44 meters) tall.",
+
+  "what is the transfer window": "The transfer window is a specific period during the year when football clubs can buy and register new players to their squad.",
+
+  "who is the all-time top scorer in world cup history": "Miroslav Klose of Germany is the all-time top scorer in FIFA World Cup history, with 16 goals.",
+
+  "tell me a fun football fact": "Did you know? The fastest recorded goal in football history was scored just 2.4 seconds after kick-off by Nawaf Al-Abed for Al-Hilal in Saudi Arabia in 2014!",
+
+  "what does et mean after a match": "ET stands for Extra Time. It's an additional 30 minutes of play, divided into two 15-minute halves, used in knockout matches to decide a winner if the score is tied after regular time.",
+
+  "what is a penalty shootout": "A penalty shootout is a method used to decide the winner of a match that is still tied after extra time. Players from each team take turns kicking from the penalty spot against the opposing goalkeeper.",
+
+  "how many substitutions are allowed in football": "In most professional competitions, teams are allowed to make up to 5 substitutions per match, a rule that was adopted permanently after being introduced during the COVID-19 pandemic.",
+
+  "what is the golden boot": "The Golden Boot is an award given to the top goal scorer in a tournament or league season, such as the World Cup or the Premier League.",
+
+  "who is the current ballon d'or winner": "The current Ballon d'Or winner (as of 2023) is Lionel Messi, who won the award for a record-extending 8th time.",
+
+  "what is the fa cup": "The FA Cup is the oldest national football competition in the world. It is a knockout tournament open to all eligible clubs in England, from amateur teams to Premier League giants.",
+
+  "how many world cups has brazil won": "Brazil has won the FIFA World Cup a record 5 times: in 1958, 1962, 1970, 1994, and 2002.",
+
+  "what is the boston celtics' record for nba championships": "The Boston Celtics have won the NBA championship a record 17 times, tying them with the Los Angeles Lakers.",
+
+  "who holds the record for most points in an nba game": "Wilt Chamberlain holds the record for most points in a single NBA game, scoring 100 points for the Philadelphia Warriors against the New York Knicks in 1962.",
+
+  "what is a super bowl": "The Super Bowl is the annual championship game of the National Football League (NFL), the highest level of professional American football.",
+
+  "which team has won the most super bowls": "The Pittsburgh Steelers and the New England Patriots are tied for the most Super Bowl wins, with 6 championships each.",
+
+  "how many periods are in a hockey game": "An ice hockey game is divided into three periods, each lasting 20 minutes of playing time.",
+
+  "what is the stanley cup": "The Stanley Cup is the championship trophy awarded annually to the playoff winner of the National Hockey League (NHL). It is the oldest professional sports trophy in North America.",
+
+  "what is a grand slam in tennis": "In tennis, a Grand Slam is one of the four most important annual tournaments: the Australian Open, the French Open, Wimbledon, and the US Open. Winning all four in a single calendar year is also called a Grand Slam.",
+
+  "who has won the most grand slam titles": "In men's tennis, Novak Djokovic holds the record for most Grand Slam singles titles. In women's tennis, Margaret Court holds the all-time record.",
+
+  "what is the rule of a tiebreak in tennis": "A tiebreak is a special game used to decide a set that is tied at 6-6. The first player to win at least 7 points with a margin of two points wins the tiebreak and the set 7-6.",
+
+  "how many overs in a one day cricket match": "In a standard One Day International (ODI) cricket match, each team faces 50 overs.",
+
+  "what is a six in cricket": "A six is a scoring shot in cricket where the batsman hits the ball over the boundary without it touching the ground, awarding 6 runs to the batting team.",
+
+  "who is called the god of cricket": "Sachin Tendulkar from India is often referred to as the 'God of Cricket' due to his extraordinary records and global popularity.",
+
+  "what is the ipl": "IPL stands for the Indian Premier League. It is a professional Twenty20 cricket league in India, held annually and featuring top players from around the world.",
+
+  "what is a birdie in golf": "A birdie in golf is a score of one stroke under par on a single hole.",
+
+  "what is the masters tournament": "The Masters is one of the four major championships in professional golf. It is played annually at Augusta National Golf Club in Georgia, USA.",
+
+  "how many laps are in the indianapolis 500": "The Indianapolis 500, a famous car race, consists of 200 laps around the 2.5-mile Indianapolis Motor Speedway.",
+
+  "what is formula 1": "Formula 1, or F1, is the highest class of international single-seater auto racing. It consists of a series of races, known as Grands Prix, held on circuits and public roads around the world.",
+
+  "who has won the most f1 championships": "Lewis Hamilton and Michael Schumacher hold the joint record for the most Formula 1 World Drivers' Championships, with seven titles each.",
+
+  "what are the olympic rings": "The Olympic rings are a symbol of the Olympic Games. The five rings represent the five continents (Africa, the Americas, Asia, Europe, and Oceania) and their colors, along with the white background, include every flag's colors in the world at the time of their creation.",
+
+  "how often are the olympic games held": "The Summer and Winter Olympic Games are each held every four years, alternating every two years. So there is an Olympic event every two years.",
+
+  "what is a gold medal made of": "Modern Olympic gold medals are actually made primarily of silver, with about 6 grams of pure gold plating. They must contain at least 92.5% silver.",
+
+  "what is mixed martial arts": "Mixed Martial Arts (MMA) is a full-contact combat sport that allows a wide variety of fighting techniques and skills from a mixture of martial arts traditions and non-traditions, including striking and grappling.",
+
+  "what is the ufc": "The UFC, or Ultimate Fighting Championship, is the largest and most prominent MMA promotion company in the world.",
+
+  "how to check my team's next match": "You can check your team's upcoming fixtures on their official website, sports news apps like ESPN or BBC Sport, or league platforms like the Premier League's official site.",
+
+  "what is fantasy football": "Fantasy football is a game where participants act as owners to build a virtual team of real-life football players. They score points based on those players' actual statistical performances in matches.",
+
+  "who is the manager of manchester city": "As of 2024, the manager of Manchester City is Pep Guardiola.",
+
+  "tell me about the women's world cup": "The FIFA Women's World Cup is an international association football competition contested by the senior women's national teams of the members of FIFA. It is held every four years. Spain won the 2023 tournament.",
+
+  "what is the 'back-pass rule'": "The back-pass rule prohibits goalkeepers from handling the ball when it has been deliberately kicked to them by a teammate. It was introduced in 1992 to speed up the game.",
+
+  "what is a classic football match i should watch": "You should definitely watch the 2005 UEFA Champions League final, known as the 'Miracle of Istanbul', where Liverpool came back from 3-0 down at halftime to beat AC Milan on penalties.",
+
+  "who is the youngest player to score in the world cup": "The youngest player to score in a FIFA World Cup is Pelé (Brazil), who was 17 years and 239 days old when he scored against Wales in 1958.",
+
+  "what does 'squad number' 10 usually mean": "Traditionally, the number 10 jersey is given to the team's playmaker or star attacking midfielder, the player who is key to creating chances and dictating the attack.",
+
+  "help": "I can answer questions about football rules, major tournaments, player records, ticket buying, and fun sports facts! Try asking me 'Who won the World Cup in 2022?' or 'What is offside?'.",
+
+  "thanks": "You're very welcome! 😊 It's my pleasure to help a fellow fan. Feel free to ask me anything else about sports! ⚽"
+}
