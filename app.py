@@ -2,6 +2,9 @@ from flask import Flask, render_template, request, jsonify
 import json
 import re
 import string
+import threading
+import requests
+import time
 from rapidfuzz import process, fuzz
 
 app = Flask(__name__)
@@ -23,6 +26,9 @@ STOP_WORDS = set([
 ])
 
 def preprocess(text):
+    length = len(text.split())
+    if length < 3:
+        return text.lower()  # For very short inputs, just lowercase without removing stop words
     text = text.lower()
     # Remove punctuation
     text = re.sub(f"[{re.escape(string.punctuation)}]", "", text)
@@ -37,6 +43,13 @@ def preprocess(text):
 # The scorers will compare the preprocessed input against the original questions.
 # This way we don't lose the context of the original questions.
 
+processed_knowledge = {}
+preprocessed_questions = []
+for q in original_questions:
+    processed_q = preprocess(q)
+    processed_knowledge[processed_q] = knowledge[q]
+    preprocessed_questions.append(processed_q)
+ 
 def get_response(user_input):
     # Preprocess user input
     processed_input = preprocess(user_input)
@@ -51,11 +64,16 @@ def get_response(user_input):
     best_score = 0
     best_match = None
 
+    question_length = len(processed_input.split())
+
+    if processed_knowledge.get(processed_input):
+        return processed_knowledge[processed_input]
+    
     # Try each scorer and keep the best match
     for scorer in scorers:
         match, score, _ = process.extractOne(
             processed_input,
-            original_questions,
+            preprocessed_questions,#original_questions,
             scorer=scorer
         )
         if score > best_score:
@@ -66,7 +84,7 @@ def get_response(user_input):
 
     # Only return answer if score is above threshold (60)
     if best_score >= 60:
-        return knowledge[best_match]
+        return processed_knowledge[best_match]
 
     return "Sorry 😅 I couldn't understand that well. Try asking something related to football rules, tickets, or fan engagement!"
 
@@ -79,6 +97,38 @@ def chat():
     user_message = request.json["message"]
     reply = get_response(user_message)
     return jsonify({"reply": reply})
+@app.route("/ping", methods=["GET"])
+def ping():
+    """Simple endpoint to keep the service alive"""
+    return "pong", 200
 
+def self_ping():
+    """Background thread that pings the service every 10 minutes"""
+    # Get the Render URL from environment variable or use localhost for testing
+    render_url = "https://sports-knowledge-chatbot.onrender.com/"  # REPLACE WITH YOUR ACTUAL RENDER URL
+    
+    # For local testing, uncomment this line and comment the one above
+    #render_url = "http://localhost:5000"
+    
+    while True:
+        try:
+            # Wait 10 minutes between pings
+            time.sleep(2)  # 600 seconds = 10 minutes
+            
+            # Ping the /ping endpoint
+            response = requests.get(f"{render_url}/ping", timeout=10)
+            print(f"Self-ping sent. Status code: {response.status_code}")
+        except Exception as e:
+            print(f"Self-ping failed: {e}")
+
+# Start the self-pinging thread when running on Render (not in debug mode)
 if __name__ == "__main__":
+    # Only start the pinger if we're running on Render (not in debug mode)
+    # Check if we're in production (no debug) or if a specific env var is set
+    import os
+    if not app.debug or os.environ.get("RENDER") == "true":
+        pinger_thread = threading.Thread(target=self_ping, daemon=True)
+        pinger_thread.start()
+        print("Self-ping thread started. Will ping every 10 minutes.")
+    
     app.run(debug=True)
